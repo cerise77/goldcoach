@@ -278,13 +278,13 @@
 	.midlle {
 		margin: 20px 80px 30px;
 	}
-	.col-6-p {
+	.midlle .col-6-p {
 	  width: 100%;
-    padding: 29px 15px;
+    padding: 29px 25px;
 	}
 	.midlle .col-6-n {
 	  width: 100%;
-    padding: 29px 15px;
+    padding: 29px 25px;
 	}
 }
 @media screen and (max-width: 720px) {
